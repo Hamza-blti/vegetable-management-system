@@ -1,0 +1,9 @@
+potatoes 120 Two_days 
+onions 170 Two_days 
+tomatoes 180 One_day 
+eggplant 100 Three_days 
+groud 80 Three_days 
+carrots 90 Two_days 
+cauliflower 100 Two_days
+cabbage 90 Three_days 
+peas 150 Two_days

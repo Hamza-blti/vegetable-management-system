@@ -1,0 +1,9 @@
+potatoes 120
+onions 170
+tomatoes 180
+eggplant 100
+groud 80
+carrots 90
+cauliflower 100
+cabbage 90
+peas 150
